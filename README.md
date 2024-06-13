@@ -2,9 +2,6 @@
 
 This package contains the Solidity implementation of Mangrove as well as deployment and governance scripts.
 
-# Documentation
-
-If you are looking for the Mangrove developer documentation, the site to go to is [docs.mangrove.exchange](https://docs.mangrove.exchange).
 
 # Use as a foundry dependency
 
